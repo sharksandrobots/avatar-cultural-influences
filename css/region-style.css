@@ -14,12 +14,12 @@ body {
 
 a {
   text-decoration: underline;
-  color: #ae7f3d;
+  color: #3390ff;
 }
 
 a:hover {
   text-decoration: none;
-  color: #ae7f3d;
+  color: #3390ff;
 }
 
 .header-block {
@@ -63,6 +63,10 @@ a:hover {
   grid-column: 1 / 4;
   border-bottom: 1px solid #ddd;
   margin-bottom:1rem;
+}
+
+.return-to-map {
+  grid-column: 1 / 4;
 }
 
 .image-label-left {
